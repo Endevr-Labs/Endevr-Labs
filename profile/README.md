@@ -1,6 +1,6 @@
 # 👋 Welcome to Endevr Labs
 
-![Endevr Labs Cover Photo](./images/endevrlabscoverphoto.jpg)
+![Endevr Labs Cover Photo](./images/endvrlabscoverphoto.png)
 **Endevr Labs** is a student-led **robotics research team** from **Gumaca National High School**.  
 We focus on discovering innovative solutions through science and technology, designing and building robots for competitions, and conducting research that drives creativity and learning in our school community.
 
